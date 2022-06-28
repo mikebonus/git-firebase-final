@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848412261300",
+    "project_id": "git-firebase-final",
+    "storage_bucket": "git-firebase-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848412261300:android:51c04f1df968b75a2e90e1",
+        "android_client_info": {
+          "package_name": "com.example.git_firebase_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848412261300-jls3c3jkhskn16fp950g0cukp8pvp91j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQpcDZ0hPWXsRAj4mqLzmhMgPabqWPPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848412261300-jls3c3jkhskn16fp950g0cukp8pvp91j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
