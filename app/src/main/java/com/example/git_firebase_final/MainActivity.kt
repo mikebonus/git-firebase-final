@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.d(TAG, "onCreate: onCreate() is called.. ")
+        Log.d(TAG, "onCreate: CI/CD is complete.. ")
 
     }
 }
